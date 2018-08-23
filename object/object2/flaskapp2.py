@@ -2,7 +2,7 @@ from flask import Flask, flash, render_template, request, abort
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
-    flash("hello jikexueyuan")
+    flash("jk")
     return render_template("index.html")
 
 @app.route('/login', methods=['POST'])
@@ -18,7 +18,7 @@ def login():
         flash("please input password")
         return render_template("index.html")
 
-    if username == 'jikexueyuan' and password == '123456':
+    if username == 'jk' and password == '123456':
         flash("login success")
         return render_template("index.html")
     else:

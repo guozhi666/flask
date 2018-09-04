@@ -13,7 +13,7 @@ def index():
 def book_list():
     books = [
         Book('python Flaks', '49.00', 'guozhi', '人民邮电出版社'),
-        Book('python', '59.00', 'guozhi', '人民邮电出版社'),
+        Book('数字图像', '59.00', 'guozhi', '人民邮电出版社'),
         Book('高等数学', '39.00', 'guozhi', '人民邮电出版社'),
         Book('大学物理', '29.00', 'guozhi', '人民邮电出版社'),
         Book('大学物理', '29.00', 'guozhi', '人民邮电出版社'),

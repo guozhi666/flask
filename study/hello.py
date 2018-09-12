@@ -21,6 +21,5 @@ def book_list():
     ]
     #book = Book('python Flaks', '49.00', 'guozhi', '人民邮电出版社')
     return render_template('book-list.html', book = books)
-
 if __name__ == "__main__":
     app.run()

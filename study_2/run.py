@@ -37,5 +37,10 @@ def test_rq():
     data['endpoint'] = request.endpoint
     return str(data)
 
+@app.route('/user/')
+def user_info():
+    name = 'Tom'
+    return render_template('user_info.html', name = name)
+
 if __name__ =='__main__':
     app.run()

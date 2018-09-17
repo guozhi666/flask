@@ -16,8 +16,7 @@ def book_list():
         Book('数字图像', '59.00', 'guozhi', '人民邮电出版社'),
         Book('高等数学', '39.00', 'guozhi', '人民邮电出版社'),
         Book('大学物理', '29.00', 'guozhi', '人民邮电出版社'),
-        Book('大学物理', '29.00', 'guozhi', '人民邮电出版社'),
-        Book('线性代数', '19.00', 'guozhi', '人民邮电出版社')
+        Book('大学物理', '29.00', 'guozhi', '人民邮电出版社')
     ]
     #book = Book('python Flaks', '49.00', 'guozhi', '人民邮电出版社')
     return render_template('book-list.html', book = books)

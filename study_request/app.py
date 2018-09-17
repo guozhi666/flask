@@ -7,7 +7,7 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/reg/', methods=['POST'])
+@app.route('/reg/')
 def reg():
 
     return render_template('reg.html')

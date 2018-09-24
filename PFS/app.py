@@ -10,5 +10,6 @@ def hello_world():
 def feedbake():
     return render_template('post.html')
 
+@app.route('/admin/edit/<id>/')
 if __name__ == '__main__':
     app.run()

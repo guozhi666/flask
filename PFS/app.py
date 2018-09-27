@@ -11,5 +11,7 @@ def feedbake():
     return render_template('post.html')
 
 @app.route('/admin/edit/<id>/')
+def edit():
+    return render_template("edit.html")
 if __name__ == '__main__':
     app.run()

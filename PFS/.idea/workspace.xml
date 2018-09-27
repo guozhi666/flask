@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2229f5f0-f57a-47e6-8770-c58d8a51a996" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study_request/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study_request/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,13 +32,14 @@
     <session id="28851358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,14 +58,14 @@
         <counts>
           <entry key="Python Console" value="77" />
           <entry key="html" value="1312" />
-          <entry key="py" value="130" />
+          <entry key="py" value="167" />
           <entry key="sql" value="183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1312" />
-          <entry key="Python" value="207" />
+          <entry key="Python" value="244" />
           <entry key="Scratch" value="183" />
         </counts>
       </usages-collector>
@@ -76,10 +76,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="285">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
-                <marker date="1537662148367" expanded="true" signature="181:255" ph="..." />
+                <marker date="1538062040276" expanded="true" signature="181:307" ph="..." />
+                <marker date="1538062040276" expanded="true" signature="266:307" ph="..." />
               </folding>
             </state>
           </provider>
@@ -153,7 +154,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="485" />
-    <option name="y" value="6" />
+    <option name="y" value="5" />
     <option name="width" value="1195" />
     <option name="height" value="950" />
   </component>
@@ -176,6 +177,10 @@
               <item name="PFS" type="b2602c69:ProjectViewProjectNode" />
               <item name="PFS" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PFS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -261,9 +266,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="388" y="5" width="956" height="760" extended-state="0" />
+    <frame x="388" y="4" width="956" height="760" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20964126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21524663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -297,10 +302,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="285">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
-            <marker date="1537662148367" expanded="true" signature="181:255" ph="..." />
+            <marker date="1538062040276" expanded="true" signature="181:307" ph="..." />
+            <marker date="1538062040276" expanded="true" signature="266:307" ph="..." />
           </folding>
         </state>
       </provider>
